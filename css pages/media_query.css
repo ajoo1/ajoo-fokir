@@ -1,0 +1,30 @@
+@media screen and (max-width: 600px) {
+   .logo{
+    margin-right: 5%;
+
+   }
+}
+@media screen and (min-width: 601px){
+    .logo{
+        margin-right:10%;
+    
+       }
+}
+@media screen and (min-width: 769px){
+    .logo{
+        margin-right:10%;
+    
+       }
+}
+@media screen and (min-width: 993px){
+    .logo{
+        margin-right:15%;
+    
+       }
+}
+@media screen and (min-width: 1200px) {
+    .logo{
+        margin-right:50%;
+    
+       }
+}
